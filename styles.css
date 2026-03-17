@@ -1,0 +1,11 @@
+* {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+h1{font-weight: 800; color:rgb(12, 71, 25);text-align: center;text-decoration: underline;padding-top:2%; padding-bottom: 5%;}
+h2{font-weight: 700; color:rgb(29, 100, 29);}
+h3{font-weight: 600; color:rgb(29, 100, 29);}
+*{background-color: rgb(124, 221, 129);}
+p{color:rgb(31, 78, 38);}
